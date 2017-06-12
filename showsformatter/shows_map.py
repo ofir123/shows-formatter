@@ -40,7 +40,7 @@ SHOWS_MAP = {
     'frank herbert\'s dune': 'Frank Herbert\'s Dune',
     'cosmos': 'Cosmos - A Spacetime Odyssey',
     'cosmos a spacetime odyssey': 'Cosmos - A Spacetime Odyssey',
-    'criminal minds beyond borders': 'Criminal Minds - Behind Borders',
+    'criminal minds beyond borders': 'Criminal Minds - Beyond Borders',
     'da vincis demons': 'Da Vinci\'s Demons',
     'da vinci\'s demons': 'Da Vinci\'s Demons',
     'dawsons creek': 'Dawson\'s Creek',
