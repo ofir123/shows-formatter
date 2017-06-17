@@ -20,6 +20,8 @@ SHOWS_MAP = {
     'the bridge': 'The Bridge (2011)',
     'bobs burgers': 'Bob\'s Burgers',
     'bob\'s burgers': 'Bob\'s Burgers',
+    'boruto': 'Boruto – Naruto Next Generations',
+    'boruto naruto next generations': 'Boruto – Naruto Next Generations',
     'braindead': 'BrainDead',
     'brooklyn nine nine': 'Brooklyn Nine-Nine',
     'buffy': 'Buffy - The Vampire Slayer',
