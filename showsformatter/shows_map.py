@@ -162,6 +162,7 @@ SHOWS_MAP = {
     'midnight texas': 'Midnight, Texas',
     'mob psycho': 'Mob Psycho 100',
     'mortal kombat legacy': 'Mortal Kombat - Legacy',
+    'mr mercedes': 'Mr. Mercedes',
     'mr robot': 'Mr. Robot',
     'mythbusters': 'MythBusters',
     'nashville': 'Nashville (2012)',
