@@ -88,6 +88,8 @@ SHOWS_MAP = {
     'harmonquest': 'HarmonQuest',
     'hawaii 5-0': 'Hawaii Five-0',
     'hawaii five-o': 'Hawaii Five-0',
+    'hercules': 'Hercules - The Legendary Journeys',
+    'hercules the legendary journeys': 'Hercules - The Legendary Journeys',
     'high maintenance': 'High Maintenance (2016)',
     'house of cards': 'House Of Cards (US)',
     'hunter x hunter': 'Hunter X Hunter (2011)',
@@ -242,5 +244,7 @@ SHOWS_MAP = {
     'wrecked': 'Wrecked (2016)',
     'the x files': 'The X-Files',
     'x men': 'X-Men - The Animated Series',
-    'x men the animated series': 'X-Men - The Animated Series'
+    'x men the animated series': 'X-Men - The Animated Series',
+    'xena': 'Xena - Warrior Princess',
+    'xena warrior princess': 'Xena - Warrior Princess'
 }
