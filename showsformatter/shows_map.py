@@ -16,6 +16,7 @@ SHOWS_MAP = {
     'ash vs evil dead': 'Ash Vs. Evil Dead',
     'avatar': 'Avatar - The Last Airbender',
     'avatar the last airbender': 'Avatar - The Last Airbender',
+    'awkward': 'Awkward.',
     'batman': 'Batman - The Animated Series',
     'batman the animated series': 'Batman - The Animated Series',
     'battlestar galactica': 'Battlestar Galactica (2003)',

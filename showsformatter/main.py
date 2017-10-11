@@ -8,9 +8,6 @@ def format_show(show_name):
     :param show_name: The show name to format.
     :return: The standard name.
     """
-    # Remove brackets group name prefix.
-    if show_name.startswith('[') and ']' in show_name:
-        show_name = show_name.split(']')[1]
     # Search for show name in known shows map.
     fixed_show_name = show_name.lower().strip()
     if fixed_show_name in SHOWS_MAP:
