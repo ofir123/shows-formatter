@@ -26,6 +26,8 @@ SHOWS_MAP = {
     'betipul': 'In Therapy',
     'beverly hills': 'Beverly Hills, 90210',
     'beverly hills 90210': 'Beverly Hills, 90210',
+    'blackish': 'Black-Ish',
+    'black-ish': 'Black-Ish',
     'the blacklist redemption': 'The Blacklist - Redemption',
     'blue planet ii': 'Blue Planet II',
     'bobs burgers': 'Bob\'s Burgers',
