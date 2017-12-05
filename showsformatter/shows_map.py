@@ -95,6 +95,7 @@ SHOWS_MAP = {
     'gilmore girls a year in the life': 'Gilmore Girls - A Year In The Life',
     'ghost in the shell arise alternative architecture': 'Ghost In The Shell - Arise - Alternative Architecture',
     'ghost in the shell stand alone complex': 'Ghost In The Shell - Stand Alone Complex',
+    'glitch': 'Glitch (2015)',
     'godless': 'Godless (2017)',
     'the goldbergs': 'The Goldbergs (2013)',
     'the grand tour': 'The Grand Tour (2016)',
