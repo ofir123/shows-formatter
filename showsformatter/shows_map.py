@@ -80,6 +80,7 @@ SHOWS_MAP = {
     'dragon ball gt': 'Dragon Ball GT',
     'dynasty': 'Dynasty (2017)',
     'empire': 'Empire (2015)',
+    'erased': 'Erased (2017)',
     'extinct': 'Extinct (2017)',
     'the flash': 'The Flash (2014)',
     'flashforward': 'FlashForward',
