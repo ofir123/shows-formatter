@@ -58,6 +58,7 @@ SHOWS_MAP = {
     'chicago p.d': 'Chicago P.D.',
     'chicago p.d.': 'Chicago P.D.',
     'children of dune': 'Frank Herbert\'s Children Of Dune',
+    'crashing': 'Crashing (2017)',
     'crazy ex girlfriend': 'Crazy Ex-Girlfriend',
     'crazy ex-girlfriend': 'Crazy Ex-Girlfriend',
     'frank herberts children of dune': 'Frank Herbert\'s Children Of Dune',
