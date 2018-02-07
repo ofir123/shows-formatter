@@ -111,6 +111,8 @@ SHOWS_MAP = {
     'the grand tour': 'The Grand Tour (2016)',
     'greys anatomy': 'Grey\'s Anatomy',
     'grey\'s anatomy': 'Grey\'s Anatomy',
+    'grownish': 'Grown-Ish',
+    'grown-ish': 'Grown-Ish',
     'haborer': 'HaBorer',
     'haikyuu': 'Haikyuu!!',
     'haikyuu!': 'Haikyuu!!',
