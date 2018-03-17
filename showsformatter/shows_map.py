@@ -238,6 +238,7 @@ SHOWS_MAP = {
     'mcmafia': 'McMafia',
     'medici': 'Medici - Masters Of Florence',
     'medici masters of florence': 'Medici - Masters Of Florence',
+    'metumtemet': 'Dumb',
     'midnight texas': 'Midnight, Texas',
     'monty pythons flying circus': 'Monty Python\'s Flying Circus',
     'mob psycho': 'Mob Psycho 100',
@@ -356,8 +357,10 @@ SHOWS_MAP = {
     'turn - washington\'s spies': 'TURN - Washington\'s Spies',
     'unreal': 'UnREAL',
     'unsolved': 'Unsolved - The Murders of Tupac and The Notorious B.I.G.',
-    'unsolved the murders of tupac and the notorious big': 'Unsolved - The Murders of Tupac and The Notorious B.I.G.',
-    'unsolved - the murders of tupac and the notorious big': 'Unsolved - The Murders of Tupac and The Notorious B.I.G.',
+    'unsolved the murders of tupac and the notorious big': 'Unsolved - The Murders Of Tupac And The Notorious B.I.G.',
+    'unsolved the murders of tupac and the notorious b.i.g.':
+        'Unsolved - The Murders Of Tupac And The Notorious B.I.G.',
+    'unsolved - the murders of tupac and the notorious big': 'Unsolved - The Murders Of Tupac And The Notorious B.I.G.',
     'v': 'V (2009)',
     'the venture bros': 'The Venture Bros.',
     'vice': 'VICE',
@@ -376,5 +379,6 @@ SHOWS_MAP = {
     'x men the animated series': 'X-Men - The Animated Series',
     'xena': 'Xena - Warrior Princess',
     'xena warrior princess': 'Xena - Warrior Princess',
-    'youre the worst': 'You\'re The Worst'
+    'youre the worst': 'You\'re The Worst',
+    'zaguri imperya': 'Zaguri Empire'
 }
