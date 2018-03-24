@@ -278,6 +278,7 @@ SHOWS_MAP = {
     'planet earth ii': 'Planet Earth II',
     'poldark': 'Poldark (2015)',
     'psycho-pass': 'Psycho-Pass',
+    'qi': 'QI',
     'reno 911': 'Reno 911!',
     'r o d': 'R.O.D - Read Or Die',
     'r.o.d': 'R.O.D - Read Or Die',
