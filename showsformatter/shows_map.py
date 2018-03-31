@@ -362,6 +362,8 @@ SHOWS_MAP = {
     'unsolved the murders of tupac and the notorious b.i.g.':
         'Unsolved - The Murders Of Tupac And The Notorious B.I.G.',
     'unsolved - the murders of tupac and the notorious big': 'Unsolved - The Murders Of Tupac And The Notorious B.I.G.',
+    'unsolved - the murders of tupac and the notorious b.i.g':
+        'Unsolved - The Murders Of Tupac And The Notorious B.I.G.',
     'v': 'V (2009)',
     'the venture bros': 'The Venture Bros.',
     'vice': 'VICE',
