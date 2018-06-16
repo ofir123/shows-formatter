@@ -283,7 +283,7 @@ SHOWS_MAP = {
     'ok k.o. - lets be heroes': 'OK K.O.! Let\'s Be Heroes',
     'once upon a time': 'Once Upon A Time (2011)',
     'one punch man': 'One-Punch Man',
-    'Ozzy And Jacks World Detour': 'Ozzy And Jack\'s World Detour',
+    'ozzy and jacks world detour': 'Ozzy And Jack\'s World Detour',
     'parasyte': 'Parasyte - The Maxim',
     'parasyte the maxim': 'Parasyte - The Maxim',
     'philip k dicks electric dreams': 'Philip K. Dick\'s Electric Dreams',
