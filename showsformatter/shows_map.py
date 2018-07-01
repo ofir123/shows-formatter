@@ -87,6 +87,7 @@ SHOWS_MAP = {
     'da vincis demons': 'Da Vinci\'s Demons',
     'da vinci\'s demons': 'Da Vinci\'s Demons',
     'dark': 'DARK',
+    'darling in the franxx': 'Darling In The FranXX',
     'dawsons creek': 'Dawson\'s Creek',
     'dawson\'s creek': 'Dawson\'s Creek',
     'dcs legends of tomorrow': 'DC\'s Legends Of Tomorrow',
