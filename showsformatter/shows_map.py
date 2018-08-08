@@ -216,6 +216,7 @@ SHOWS_MAP = {
     'the magicians': 'The Magicians (2015)',
     'making history': 'Making History (2017)',
     'manhunt unabomber': 'Manhunt - Unabomber',
+    'maniac': 'Maniac (2018)',
     'marco polo': 'Marco Polo (2014)',
     'married. with children': 'Married With Children',
     'married... with children': 'Married With Children',
