@@ -263,6 +263,7 @@ SHOWS_MAP = {
     'the punisher': 'Marvel\'s The Punisher',
     'marvels the punisher': 'Marvel\'s The Punisher',
     'marvel\'s the punisher': 'Marvel\'s The Punisher',
+    'mayans': 'Mayans M.C.',
     'mayans mc': 'Mayans M.C.',
     'mayans m.c': 'Mayans M.C.',
     'mayans m.c.': 'Mayans M.C.',
