@@ -54,6 +54,7 @@ SHOWS_MAP = {
     'blue planet ii': 'Blue Planet II',
     'bobs burgers': 'Bob\'s Burgers',
     'bob\'s burgers': 'Bob\'s Burgers',
+    'bodyguard': 'Bodyguard (2018)',
     'boku dake ga inai machi': 'ERASED',
     'boku no hero academia': 'My Hero Academia',
     'boruto': 'Boruto – Naruto Next Generations',
@@ -116,6 +117,7 @@ SHOWS_MAP = {
     'evil genius the true story of america\'s most diabolical bank heist':
         'Evil Genius - The True Story Of America\'s Most Diabolical Bank Heist',
     'extinct': 'Extinct (2017)',
+    'fbi': 'FBI',
     'the flash': 'The Flash (2014)',
     'flashforward': 'FlashForward',
     'food wars': 'Food Wars! Shokugeki No Soma',
@@ -285,6 +287,7 @@ SHOWS_MAP = {
     'murder she wrote': 'Murder, She Wrote',
     'mythbusters': 'MythBusters',
     'nashville': 'Nashville (2012)',
+    'new amsterdam': 'New Amsterdam (2018)',
     'newsroom': 'The Newsroom (2012)',
     'the newsroom': 'The Newsroom (2012)',
     'niptuck': 'NipTuck',
