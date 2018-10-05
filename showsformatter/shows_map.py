@@ -33,6 +33,7 @@ SHOWS_MAP = {
     'a p bio': 'A.P. BIO',
     'a.p bio': 'A.P. BIO',
     'a.p. bio': 'A.P. BIO',
+    'aquarius': 'Aquarius (2015)',
     'archer': 'Archer (2009)',
     'ash vs evil dead': 'Ash Vs. Evil Dead',
     'avatar': 'Avatar - The Last Airbender',
