@@ -113,6 +113,8 @@ SHOWS_MAP = {
     'dont trust the bitch in apartment 23': 'Don\'t Trust The B---- In Apartment 23',
     'dragon ball gt': 'Dragon Ball GT',
     'dragon ball heroes': 'Super Dragon Ball Heroes',
+    'dynasties uk': 'Dynasties (2018)',
+    'dynasties': 'Dynasties (2018)',
     'dynasty': 'Dynasty (2017)',
     'empire': 'Empire (2015)',
     'erased': 'Erased (2017)',
