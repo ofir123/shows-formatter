@@ -339,6 +339,7 @@ SHOWS_MAP = {
     'ping pong the animation': 'Ping Pong - The Animation',
     'planet earth ii': 'Planet Earth II',
     'poldark': 'Poldark (2015)',
+    'the protector': 'The Protector (2018)',
     'psycho-pass': 'Psycho-Pass',
     'qi': 'QI',
     'reboot the guardian code': 'ReBoot - The Guardian Code',
