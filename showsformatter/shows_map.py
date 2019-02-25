@@ -204,6 +204,7 @@ SHOWS_MAP = {
     'kevin probably saves the world': 'Kevin (Probably) Saves The World',
     'kevin saves the world': 'Kevin (Probably) Saves The World',
     'the killing': 'The Killing (2011)',
+    'kingdom': 'Kingdom (2019)',
     'knights of the zodiac': 'Knights Of The Zodiac - Saint Seiya',
     'knights of the zodiac saint seiya': 'Knights Of The Zodiac - Saint Seiya',
     'kung fu the legend continues': 'Kung Fu - The Legend Continues',
