@@ -525,6 +525,7 @@ SHOWS_MAP = {
     'x men the animated series': 'X-Men - The Animated Series',
     'xena': 'Xena - Warrior Princess',
     'xena warrior princess': 'Xena - Warrior Princess',
+    'yellowstone': 'Yellowstone (2018)',
     'you': 'YOU',
     'youre the worst': 'You\'re The Worst',
     'zaguri imperya': 'Zaguri Empire'
