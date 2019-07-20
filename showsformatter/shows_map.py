@@ -484,6 +484,8 @@ SHOWS_MAP = {
     'marvelous mrs maisel': 'The Marvelous Mrs. Maisel',
     'marvelous mrs. maisel': 'The Marvelous Mrs. Maisel',
     'the marvelous mrs maisel': 'The Marvelous Mrs. Maisel',
+    'the planets': 'The Planets (2019)',
+    'the planets uk': 'The Planets (2019)',
     'the politician': 'The Politician (2019)',
     'the ranch': 'The Ranch (2016)',
     'that 70s show': 'That 70\'s Show',
@@ -515,6 +517,8 @@ SHOWS_MAP = {
     'unsolved - the murders of tupac and the notorious big': 'Unsolved - The Murders Of Tupac And The Notorious B.I.G.',
     'unsolved - the murders of tupac and the notorious b.i.g':
         'Unsolved - The Murders Of Tupac And The Notorious B.I.G.',
+    'unxplained': 'The UnXplained',
+    'the unxplained': 'The UnXplained',
     'v': 'V (2009)',
     'the venture bros': 'The Venture Bros.',
     'vice': 'VICE',
