@@ -148,6 +148,7 @@ SHOWS_MAP = {
     'empire': 'Empire (2015)',
     'erased': 'Erased (2017)',
     'euphoria': 'Euphoria (US)',
+    'everythings gonna be okay': 'Everything\'s Gonna Be Okay',
     'everything sucks': 'Everything Sucks!',
     'evil genius': 'Evil Genius - The True Story Of America\'s Most Diabolical Bank Heist',
     'evil genius the true story of americas most diabolical bank heist':
@@ -231,6 +232,7 @@ SHOWS_MAP = {
     'hitlers circle of evil': 'Hitler\'s Circle Of Evil',
     'house of cards': 'House Of Cards (US)',
     'hunter x hunter': 'Hunter X Hunter (2011)',
+    'hunters': 'Hunters (2020)',
     'in the dark': 'In The Dark (2019)',
     'the inbetween': 'The InBetween',
     'innocent': 'Innocent (2018)',
@@ -298,6 +300,8 @@ SHOWS_MAP = {
     'life': 'Life (2009)',
     'lihiot': 'Beauty And The Baker',
     'lihiot ita': 'Beauty And The Baker',
+    'lincoln rhyme': 'Lincoln Rhyme - Hunt For The Bone Collector',
+    'lincoln rhyme hunt for the bone collector': 'Lincoln Rhyme - Hunt For The Bone Collector',
     'lois & clark': 'Lois And Clark - The New Adventures Of Superman',
     'lois & clark the new adventures of superman': 'Lois And Clark - The New Adventures Of Superman',
     'lois and clark': 'Lois And Clark - The New Adventures Of Superman',
@@ -427,6 +431,7 @@ SHOWS_MAP = {
     'paradise pd': 'Paradise PD',
     'parasyte': 'Parasyte - The Maxim',
     'parasyte the maxim': 'Parasyte - The Maxim',
+    'party of five': 'Party Of Five (2020)',
     'patriot': 'Patriot (2017)',
     'penguins spy in the huddle': 'Penguins - Spy In The Huddle',
     'philip k dicks electric dreams': 'Philip K. Dick\'s Electric Dreams',
@@ -541,6 +546,7 @@ SHOWS_MAP = {
     'the o.c': 'The O.C.',
     'the o.c.': 'The O.C.',
     'the o c': 'The O.C.',
+    'the outsider': 'The Outsider (2020)',
     'the planets': 'The Planets (2019)',
     'the planets uk': 'The Planets (2019)',
     'the politician': 'The Politician (2019)',
@@ -611,5 +617,6 @@ SHOWS_MAP = {
     'yellowstone': 'Yellowstone (2018)',
     'you': 'YOU',
     'youre the worst': 'You\'re The Worst',
-    'zaguri imperya': 'Zaguri Empire'
+    'zaguri imperya': 'Zaguri Empire',
+    'zoeys extraordinary playlist': 'Zoey\'s Extraordinary Playlist'
 }
