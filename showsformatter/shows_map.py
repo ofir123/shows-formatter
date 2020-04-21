@@ -598,6 +598,8 @@ SHOWS_MAP = {
     's w.a.t.': 'S.W.A.T. (2017)',
     'sword art online alternative gun gale online': 'Sword Art Online Alternative - Gun Gale Online',
     'taboo': 'Taboo (2017)',
+    'tacoma fd': 'Tacoma FD',
+    'tacoma f d': 'Tacoma FD',
     'taken': 'Taken (2017)',
     'tate no yuusha no nariagari': 'The Rising Of The Shield Hero',
     'ted bundy falling for a killer': 'Ted Bundy - Falling For A Killer',
