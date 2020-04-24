@@ -688,6 +688,7 @@ SHOWS_MAP = {
     'the whitest kids u know': 'The Whitest Kids U\'Know',
     'wilfred': 'Wilfred (US)',
     'will and grace': 'Will & Grace',
+    'workin moms': 'Workin\' Moms',
     'world war ii in': 'World War II In HD Colour',
     'world war ii in hd colour': 'World War II In HD Colour',
     'the worlds most extraordinary homes': 'The World\'s Most Extraordinary Homes',
