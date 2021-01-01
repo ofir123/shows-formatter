@@ -175,6 +175,7 @@ SHOWS_MAP = {
     'dynasties uk': 'Dynasties (2018)',
     'dynasties': 'Dynasties (2018)',
     'dynasty': 'Dynasty (2017)',
+    'ehad al ehad': 'One On One',
     'empire': 'Empire (2015)',
     'erased': 'Erased (2017)',
     'euphoria': 'Euphoria (US)',
@@ -709,6 +710,7 @@ SHOWS_MAP = {
     'the adventures of jimmy neutron boy genius': 'The Adventures Of Jimmy Neutron - Boy Genius',
     'the code': 'The Code (2019)',
     'the continental': 'The Continental (2021)',
+    'the day of the triffids': 'The Day Of The Triffids (2009)',
     'the dictators playbook': 'The Dictator\'s Playbook',
     'the dictator\'s playbook': 'The Dictator\'s Playbook',
     'the forgotten army': 'The Forgotten Army - Azaadi Ke Liye',
@@ -828,5 +830,6 @@ SHOWS_MAP = {
     'zero zero zero': 'ZeroZeroZero',
     'zerozerozero': 'ZeroZeroZero',
     'zetsuen no tempest': 'Blast Of Tempest',
-    'zoeys extraordinary playlist': 'Zoey\'s Extraordinary Playlist'
+    'zoeys extraordinary playlist': 'Zoey\'s Extraordinary Playlist',
+    'zot vezoti': 'Zot VeZoti'
 }
