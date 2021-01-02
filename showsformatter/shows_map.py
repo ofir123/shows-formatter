@@ -746,7 +746,7 @@ SHOWS_MAP = {
     'the victims game': 'The Victim\'s Game',
     'the victim\'s game': 'The Victim\'s Game',
     'the walking dead world beyond': 'The Walking Dead - World Beyond',
-    'the watch': 'The Watch (2020)',
+    'the watch': 'The Watch (2021)',
     'this is': 'This Is Us',
     'tiger king': 'Tiger King - Murder, Mayhem And Madness',
     'tiger king murder mayhem and madness': 'Tiger King - Murder, Mayhem And Madness',
@@ -831,5 +831,6 @@ SHOWS_MAP = {
     'zerozerozero': 'ZeroZeroZero',
     'zetsuen no tempest': 'Blast Of Tempest',
     'zoeys extraordinary playlist': 'Zoey\'s Extraordinary Playlist',
+    'zot ve zoti': 'Zot VeZoti',
     'zot vezoti': 'Zot VeZoti'
 }
