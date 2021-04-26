@@ -80,6 +80,7 @@ SHOWS_MAP = {
     'blackspace': 'BlackSpace',
     'black space': 'BlackSpace',
     'blood and treasure': 'Blood & Treasure',
+    'bloodlands': 'Bloodlands (2021)',
     'blue planet ii': 'Blue Planet II',
     'bobs burgers': 'Bob\'s Burgers',
     'bob\'s burgers': 'Bob\'s Burgers',
