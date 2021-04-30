@@ -1,4 +1,6 @@
 SHOWS_MAP = {
+    '1971': '1971 - The Year That Music Changed Everything',
+    '1971 the year that music changed everything': '1971 - The Year That Music Changed Everything',
     '24 legacy': '24 - Legacy',
     '3%': '3 Percent',
     '7seeds': '7Seeds',
@@ -411,6 +413,7 @@ SHOWS_MAP = {
     'lincoln rhyme': 'Lincoln Rhyme - Hunt For The Bone Collector',
     'lincoln rhyme hunt for the bone': 'Lincoln Rhyme - Hunt For The Bone Collector',
     'lincoln rhyme hunt for the bone collector': 'Lincoln Rhyme - Hunt For The Bone Collector',
+    'liseys story': 'Lisey\'s Story',
     'locke and key': 'Locke & Key',
     'lohamim': 'Fighters',
     'lois & clark': 'Lois And Clark - The New Adventures Of Superman',
@@ -423,6 +426,8 @@ SHOWS_MAP = {
     'love death and robots': 'Love, Death & Robots',
     'love life': 'Love Life (2020)',
     'love victor': 'Love, Victor',
+    'luis miguel': 'Luis Miguel - The Series',
+    'luis miguel the series': 'Luis Miguel - The Series',
     'macgyver (2016)': 'MacGyver (2016)',
     'macgyver': 'MacGyver (2016)',
     'magi': 'Magi - The Labyrinth Of Magic',
