@@ -169,6 +169,7 @@ SHOWS_MAP = {
     'conversations with a killer the ted bundy tapes': 'Conversations With A Killer - The Ted Bundy Tapes',
     'cosmos a spacetime odyssey': 'Cosmos (2014)',
     'countdown inspiration4 mission to space': 'Countdown - Inspiration4 Mission To Space',
+    'cowboy bebop': 'Cowboy Bebop (2021)',
     'coyote': 'Coyote (2021)',
     'criminal minds beyond borders': 'Criminal Minds - Beyond Borders',
     'criminal uk': 'Criminal - United Kingdom',
