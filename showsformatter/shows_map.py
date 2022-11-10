@@ -225,6 +225,7 @@ SHOWS_MAP = {
     'the lost symbol': 'Dan Brown\'s The Lost Symbol',
     'danmachi': 'Is It Wrong To Try To Pick Up Girls In A Dungeon',
     'dungeon ni deai wo motomeru no wa machigatteiru darou ka': 'Is It Wrong To Try To Pick Up Girls In A Dungeon',
+    'dangerous liaisons': 'Dangerous Liaisons (2022)',
     'danshi koukousei no nichijou': 'Daily Lives Of High School Boys',
     'daredevil born again': 'Daredevil - Born Again',
     'dark side of the 90s': 'Dark Side Of The 90s',
@@ -243,6 +244,7 @@ SHOWS_MAP = {
     'dear': 'Dear...',
     'deceit': 'Deceit (2021)',
     'deception': 'Deception (2018)',
+    'deepa and anoop': 'Deepa & Anoop',
     'der pass': 'Pagan Peak',
     'descendants wicked world': 'Descendants - Wicked World',
     'dexter new blood': 'Dexter - New Blood',
@@ -1183,6 +1185,7 @@ SHOWS_MAP = {
     'the staircase': 'The Staircase (2022)',
     'the stranger': 'The Stranger (2020)',
     'the surgeons cut': 'The Surgeon\'s Cut',
+    'the suspect': 'The Suspect (2022)',
     'the thief his wife and the canoe': 'The Thief, His Wife And The Canoe',
     'the tick': 'The Tick (2016)',
     'the time travelers wife': 'The Time Traveler\'s Wife',
@@ -1319,6 +1322,7 @@ SHOWS_MAP = {
     'zerozerozero': 'ZeroZeroZero',
     'zetsuen no tempest': 'Blast Of Tempest',
     'zoeys extraordinary playlist': 'Zoey\'s Extraordinary Playlist',
+    'zootopia plus': 'Zootopia+',
     'zot ve zoti': 'Zot VeZoti',
     'zot vezoti': 'Zot VeZoti'
 }
