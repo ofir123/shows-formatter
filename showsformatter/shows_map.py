@@ -1,4 +1,5 @@
 SHOWS_MAP = {
+    '100 years of warner bros': '100 Years Of Warner Bros.',
     '1971': '1971 - The Year That Music Changed Everything',
     '1971 the year that music changed everything': '1971 - The Year That Music Changed Everything',
     'the year that music changed everything': '1971 - The Year That Music Changed Everything',
@@ -401,6 +402,7 @@ SHOWS_MAP = {
     'from scratch': 'From Scratch (2022)',
     'frozen planet ii': 'Frozen Planet II',
     'fruits basket': 'Fruits Basket (2019)',
+    'fubar': 'FUBAR',
     'the fugitive': 'The Fugitive (2020)',
     'full swing': 'Full Swing (2023)',
     'fullmetal alchemist brotherhood': 'Fullmetal Alchemist - Brotherhood',
@@ -1016,6 +1018,7 @@ SHOWS_MAP = {
     'real madrid until the end': 'Real Madrid - Until The End',
     'reasonable doubt': 'Reasonable Doubt (2022)',
     'reign': 'Reign (2013)',
+    'ride': 'Ride (2023)',
     'roadkill': 'Roadkill (2020)',
     'r.o.d read or die': 'R.O.D - Read Or Die',
     'roar': 'Roar (2022)',
